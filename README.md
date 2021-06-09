@@ -21,9 +21,13 @@ Run the app using this command python3.8 manage.py runserver on the terminal.You
 # Technologies Used
 
 .Python 3.8
+
 .Django
+
 .Heroku
+
 .Bootstrap
+
 .HTML
 
 
