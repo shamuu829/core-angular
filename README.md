@@ -18,4 +18,13 @@ Run migrations using these respective commmands python3.8 manage.py makemigratio
 
 Run the app using this command python3.8 manage.py runserver on the terminal.You can then open the app on your browser.
 
+# Technologies Used
+
+.Python 3.8
+.Django
+.Heroku
+.Bootstrap
+.HTML
+
+
 
